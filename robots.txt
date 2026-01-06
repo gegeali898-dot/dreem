@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://spectacular-bunny-da4f1a.netlify.app/sitemap.xml
